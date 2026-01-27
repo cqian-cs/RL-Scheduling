@@ -1,0 +1,6 @@
+torch
+numpy
+pymoo
+scipy
+orjson
+prettytable
