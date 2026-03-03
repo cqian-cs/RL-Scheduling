@@ -1,4 +1,4 @@
-# Efficient Reinforcement Learning for Online Multi-Workflow Scheduling in Edge Computing - Code Repository  
+# On Efficiency-Oriented Designs for Reinforcement Learning-based Multi-Workflow Scheduling in Edge Computing - Code Repository  
 **Submission to IEEE Internet of Things Journal**  
 
 
@@ -9,7 +9,7 @@
 
 ## 1. Introduction
 This repository provides code to reproduce all experiments in the paper
-*Efficient Reinforcement Learning for Online Multi-Workflow Scheduling in Edge Computing*.
+*On Efficiency-Oriented Designs for Reinforcement Learning-based Multi-Workflow Scheduling in Edge Computing*.
 
 
 **This repository contains:**
