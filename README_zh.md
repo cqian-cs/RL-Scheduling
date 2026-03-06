@@ -1,4 +1,4 @@
-# On Efficiency-Oriented Designs for Reinforcement Learning-based Multi-Workflow Scheduling in Edge Computing - 论文源码  
+# Efficiency-Oriented Designs for Reinforcement Learning-based Multi-Workflow Scheduling in Edge Computing - 论文源码  
 **Submission to IEEE Internet of Things Journal**  
 
 
@@ -8,7 +8,7 @@
 ---
 
 ## 1. 简介
-本仓库提供论文《On Efficiency-Oriented Designs for Reinforcement Learning-based Multi-Workflow Scheduling in Edge Computing》的复现代码。
+本仓库提供论文《Efficiency-Oriented Designs for Reinforcement Learning-based Multi-Workflow Scheduling in Edge Computing》的复现代码。
 
 **本仓库包含：**
 - 模拟异构边缘计算环境
